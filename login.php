@@ -21,7 +21,9 @@
                             input: '#F3F4FA',      // Header Inner Bar
                             green:'#00B928',
                             red:"#FF0004",
-                            tableTop:"#CADDFF"
+                            tableTop:"#CADDFF",
+                            light:"#A2A2A2",
+                            gray:"#636363"
                         }
                     },
                     fontFamily: {
